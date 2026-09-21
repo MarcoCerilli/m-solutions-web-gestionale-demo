@@ -1,0 +1,6 @@
+{
+  "name": "M Solutions Web - Gestionale Demo",
+  "description": "Demo dimostrativa di gestionale per M Solutions Web: richieste lead, schede cliente e preventivazione.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
